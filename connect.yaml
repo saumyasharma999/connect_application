@@ -1,5 +1,5 @@
 deployAs:
-  - applicationName: connect_application
+  - name: connect_application
     applicationType: service
     scripts:
       postDeploy: npm install && npm run connector:post-deploy
