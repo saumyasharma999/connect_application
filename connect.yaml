@@ -1,5 +1,5 @@
 deployAs:
-  - name: connect_application
+  - name: service
     applicationType: service
     endpoint: /service
     scripts:
